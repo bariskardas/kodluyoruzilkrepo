@@ -6,4 +6,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 'git clone https://github.com/bariskardas/kodluyoruzilkrepo.git'
 
-![Kodluyoruz resim](https://images.app.goo.gl/Y5Kv9DSmkdjt3fv19)
+![Kodluyoruz resim](https://media.kommunity.com/communities/kodluyoruz/17637/27971846_748761281998348_2999043640998413504_n.png?p=community-800)
