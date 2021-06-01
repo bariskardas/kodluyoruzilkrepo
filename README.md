@@ -26,4 +26,4 @@ Pull requestler kabul edilir.Büyük değişkenler için, lütfen önce neyi de�
 
 ![Kodluyoruz resim](https://media.kommunity.com/communities/kodluyoruz/17637/27971846_748761281998348_2999043640998413504_n.png?p=community-800)
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/favicon.ico" width="110">
